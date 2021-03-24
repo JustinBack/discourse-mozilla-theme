@@ -56,18 +56,6 @@ h1, h2, h3, h4, h5, h6 {
   display: none;
 }
 
-/* Hide Archives category */
-
-tr[data-category-id="64"] {
-    display: none;
-}
-
-/* Hide Off-Topic category */
-
-tr[data-category-id="275"] {
-    display: none;
-}
-
 /* A11y friendly colours */
 
 .user-preferences {
